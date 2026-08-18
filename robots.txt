@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-h214gl.salamkita.shop/sitemap.xml
